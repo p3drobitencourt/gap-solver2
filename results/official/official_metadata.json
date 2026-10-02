@@ -1,0 +1,35 @@
+{
+    "timestamp": "2026-10-02T00:20:19.523976",
+    "sizes_configured": [
+        50,
+        100,
+        150,
+        200,
+        300,
+        500
+    ],
+    "sizes_completed": [
+        50,
+        100,
+        150,
+        200,
+        300,
+        500
+    ],
+    "sizes_failed": [],
+    "seed": 42,
+    "tightness": 1.1,
+    "time_limit": 60.0,
+    "fo_strategy": "agent_based",
+    "fo_neighborhood_size": 3,
+    "fo_max_iterations": 20,
+    "instance_hashes": {
+        "50": "8e6a824e221d062d1d4d3bc27662c71bb05f7a70442126f6d12a0e72810b546f",
+        "100": "ce664e318c33e41e22aaaf9bc857ad1a1c7f9a4f12fc89f15de1ccc168cf5c0a",
+        "150": "f10f5a9433ca0339e1a35ecc2495b415fd9bd12d811e0221e1335772041513a8",
+        "200": "c6668bc6bd2c32f76565779118f3ec5c223f7fa0e65bf70dbb28d1bd1b1569df",
+        "300": "0e639f2c876ac2afadd5a65a680ce5fad9f1dbe5838102234973d93d4b6ca1c0",
+        "500": "499fb10f6ea700da009c16ee86fb891ee1f141f79f8bbc11483a75c4cf5725a5"
+    },
+    "version": "TP-III Official Runner v2.0 (Subprocess)"
+}
